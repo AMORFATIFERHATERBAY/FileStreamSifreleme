@@ -1,0 +1,12 @@
+/Users/amorfati/Desktop/dotnet-deneme/calisma09-FileStream/bin/Debug/netcoreapp3.1/calisma09-FileStream.deps.json
+/Users/amorfati/Desktop/dotnet-deneme/calisma09-FileStream/bin/Debug/netcoreapp3.1/calisma09-FileStream.runtimeconfig.json
+/Users/amorfati/Desktop/dotnet-deneme/calisma09-FileStream/bin/Debug/netcoreapp3.1/calisma09-FileStream.runtimeconfig.dev.json
+/Users/amorfati/Desktop/dotnet-deneme/calisma09-FileStream/bin/Debug/netcoreapp3.1/calisma09-FileStream.dll
+/Users/amorfati/Desktop/dotnet-deneme/calisma09-FileStream/bin/Debug/netcoreapp3.1/calisma09-FileStream.pdb
+/Users/amorfati/Desktop/dotnet-deneme/calisma09-FileStream/obj/Debug/netcoreapp3.1/calisma09-FileStream.csprojAssemblyReference.cache
+/Users/amorfati/Desktop/dotnet-deneme/calisma09-FileStream/obj/Debug/netcoreapp3.1/calisma09-FileStream.AssemblyInfoInputs.cache
+/Users/amorfati/Desktop/dotnet-deneme/calisma09-FileStream/obj/Debug/netcoreapp3.1/calisma09-FileStream.AssemblyInfo.cs
+/Users/amorfati/Desktop/dotnet-deneme/calisma09-FileStream/obj/Debug/netcoreapp3.1/calisma09-FileStream.csproj.CoreCompileInputs.cache
+/Users/amorfati/Desktop/dotnet-deneme/calisma09-FileStream/obj/Debug/netcoreapp3.1/calisma09-FileStream.dll
+/Users/amorfati/Desktop/dotnet-deneme/calisma09-FileStream/obj/Debug/netcoreapp3.1/calisma09-FileStream.pdb
+/Users/amorfati/Desktop/dotnet-deneme/calisma09-FileStream/obj/Debug/netcoreapp3.1/calisma09-FileStream.genruntimeconfig.cache
