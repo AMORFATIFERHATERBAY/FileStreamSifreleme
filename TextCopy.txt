@@ -1,0 +1,3 @@
+Merhaba Ibrahim, sana asagida sisteme erisebilmen icin veri tabani kullanici adi ve sifremi yolluyorum
+Kullanici adi : Administrator
+Sifre : ABCD123
